@@ -1,0 +1,187 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: #ccc
+}
+
+.wrap {
+    background-color: #fff;
+    width: 900px;
+    margin: 40px auto 40px auto;
+    padding: 40px;
+    box-shadow: 0 0 5px rgba(0, 0, 0 .5);
+}
+
+.wrap h1 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.wrap h2 {
+    font-size: 28px;
+    padding-bottom: 8px;
+    border-bottom: 2px dotted rgb(240, 226, 226);
+}
+
+.profile {
+    background-color: rgb(240, 226, 226);
+    overflow: hidden;
+    margin-bottom: 35px;
+}
+
+.left {
+    width: 40%;
+    height: 70%;
+    float: left;
+    margin: 10%;
+}
+
+.left img {
+    width: 100%;
+    height: 80%;
+    margin: 5%
+}
+
+.right {}
+
+h1.name {
+    font-size: 55px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-decoration: none;
+}
+
+.from {
+    font-size: 20px;
+    margin-bottom: 2px;
+    font-style: italic;
+}
+
+.basein {
+    font-size: 20px;
+    margin-bottom: 60px;
+    font-style: italic;
+}
+
+.info {}
+
+.education {
+    font-size: 55px;
+    margin-top: 70px;
+}
+
+.educatio {
+    font-size: 10px;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+h1.contactinfo {
+    font-size: 55px;
+    margin-top: 70px;
+}
+
+.link0 {
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.link1 {
+    font-size: 10px;
+    margin-top: 1px;
+}
+
+.link2 {
+    font-size: 10px;
+    margin-top: 1px;
+}
+
+.skill h2 {
+    margin-left: 46%;
+    font-size: 32px;
+}
+
+.skill {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.skill ul {
+    list-style: none;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.skill ul li {
+    width: 240px;
+    margin-left: 120px;
+    padding-left: 40px;
+    margin-bottom: 24px;
+    float: left
+}
+
+.exhibition h2 {
+    margin-left: 42%;
+    font-size: 32px;
+}
+
+.exhibition {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.exhibition .leftB {
+    float: left;
+    margin-right: 4%;
+    width: 48%
+}
+
+.exhibition .rightB {
+    float: left;
+    width: 48%
+}
+
+.exhibition ul {
+    margin-top: 12px;
+    list-style: none;
+    font-size: 50 px;
+}
+
+.exhibition ul li {
+    margin-bottom: 20px;
+    padding-left: 40px;
+}
+
+.artwork h2 {
+    margin-left: 44%;
+    font-size: 32px;
+}
+
+.artwork ul {
+    list-style: none;
+    font-size: 2px;
+    margin-top: 8px;
+}
+
+.artwork ul li {
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 5%;
+    margin-bottom: 8px;
+}
+
+.artwork ul li img {
+    width: 100%
+}
+
+.artwork ul li:nth-child(3n) {
+    margin-right: 0%;
+}
+
+.artwork h2 {
+    overflow: hidden;
+    margin-bottom: 40px;
+}
